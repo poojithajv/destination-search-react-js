@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  width: 300px;
+}
+.image {
+  width: 200px;
+  height: 200px;
+}
+.place {
+  color: #000000;
+  font-family: 'Open Sans';
+  font-size: 12px;
+}
